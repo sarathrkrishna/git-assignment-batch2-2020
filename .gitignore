@@ -1,0 +1,4 @@
+# Ignore these..
+ignore/*
+# Don't ignore these..
+ignore/present.txt
