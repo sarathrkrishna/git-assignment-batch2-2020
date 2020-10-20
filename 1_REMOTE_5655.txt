@@ -1,4 +1,0 @@
-This is a project file
-Hai
-Hello
-How are you ?
