@@ -1,4 +1,6 @@
 # Ignore these..
 ignore/*
+log.txt
+reflog.txt
 # Don't ignore these..
 ignore/present.txt
